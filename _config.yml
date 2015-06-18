@@ -1,0 +1,20 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Meniscectomia
+tagline:          Tudo sobre a meniscectomia
+description:      "Artigos sobre a meniscectomia"
+url:              http://meniscectomia.com
+baseurl:          /
+
+author:
+  name:           'Luís Ramalho'
+  url:            http://luisramalho.com
+
+paginate:         1
