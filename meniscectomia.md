@@ -3,7 +3,7 @@ layout: page
 title: Meniscectomia
 ---
 
-##As Incidências e causas da ruptura dos meniscos
+## As Incidências e causas da ruptura dos meniscos
 
 Geralmente é devido a ruptura do menisco medial, que se desloca para o centro da articulação, produzindo uma obstrução da rotação externa da tíbia e a extensão completa. Ocorrendo a distensão e a ruptura do LCA. (Smille, 1980). A ruptura do ligamento cruzado anterior também pode provocar lesões meniscais. O condilo femural interno, no movimento de gaveta anterior em compressão (cadeia cinemática fechada), como não tem o ligamento a limitar o movimento, acaba por provocar um “cisalhamento” do corno posterior do menisco interno, por conseguinte uma desincersão capsular ou uma fissura horizontal (Kapandji, 2000).
 

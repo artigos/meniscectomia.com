@@ -11,7 +11,7 @@ Se tal não ocorrer, deve-se flecti-lo um pouco, forçando o valgo, a executar m
 
 Esta manipulação pretende colocar o fragmento meniscal numa posição que não provoque dor, incómodo ou limitação. Se não obtiver êxito, deve ser operado.
 
-##Tratamento
+## Tratamento
 
 Os objectivos principais do tratamento são o de restabelecer a amplitude de movimento total do joelho, e reequilibrar a força muscular, visando que o paciente volte com segurança e em condições normais, às actividades da vida diária, portanto, é fase fundamental na continuidade do tratamento.
 

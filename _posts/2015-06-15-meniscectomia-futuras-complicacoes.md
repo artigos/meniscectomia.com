@@ -9,7 +9,7 @@ A meniscectomia pode levar a sinais radiológicos de artrose do joelho (não obr
 
 Em alguns casos, a doença pode instalar-se em indivíduos mais jovens.
 
-##Tratamento em Fisioterapia
+## Tratamento em Fisioterapia
 
 __Na fase do pós-operatório:__
 

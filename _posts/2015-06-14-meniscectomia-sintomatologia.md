@@ -7,7 +7,7 @@ permalink: meniscectomia-sintomatologia.html
 
 Referencia a uma torção do joelho semi-flectido, com dor súbita e impotência funcional. Dor localizada à interlinha, interna ou externa. Há derrame intra-articular moderado, que se forma lentamente e progride até aos dois dias. A pungição articular revela, geralmente, derrame seroso, ao contrário da ruptura do ligamento cruzado anterior, que forma hemartrose. Há impedimento doloroso para a carga completa e para a marcha sem claudicação. A palpação revela dor máxima, exactamente na interlinha interna ou externa do joelho. Se a lesão é do menisco interno, existe dor ao varo forçado da articulação e a valgização não provoca dor (Alvim Serra, 2001). O menisco externo a sintomatologia é contrária, isto é, existe dor no valgo forçado e a varização forçada não provoca dor.
 
-##As Incidências e causas da ruptura dos meniscos
+## As Incidências e causas da ruptura dos meniscos
 
 Geralmente é devido a ruptura do menisco medial, que se desloca para o centro da articulação, produzindo uma obstrução da rotação externa da tíbia e a extensão completa. Ocorrendo a distensão e a ruptura do LCA. (Smille, 1980). A ruptura do ligamento cruzado anterior também pode provocar lesões meniscais. O condilo femural interno, no movimento de gaveta anterior em compressão (cadeia cinemática fechada), como não tem o ligamento a limitar o movimento, acaba por provocar um “cisalhamento” do corno posterior do menisco interno, por conseguinte uma desincersão capsular ou uma fissura horizontal (Kapandji, 2000).
 

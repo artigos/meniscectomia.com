@@ -3,7 +3,7 @@ layout: page
 title: Anatomia do joelho
 ---
 
-##A Articulação do Joelho
+## A Articulação do Joelho
 
 ![Anatomia do joelho]({{ site.baseurl }}public/images/index_clip_image001.jpg "Anatomia do joelho")
 
